@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Задача 1, 2 ");
+        System.out.println("Задачи 1, 2 ");
 
         int[] weight = new int[3];
         weight[0] = 1;
