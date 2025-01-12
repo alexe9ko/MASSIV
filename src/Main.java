@@ -38,6 +38,13 @@ public class Main {
             }
         }
         System.out.println();
+        System.out.println("Задача 4");
+        for (int l = 0; l < weight.length; l++) {
+            if (weight[l]%2!= 0)
+            { weight[l] = weight[l] + 1;
+            }
+        }
+        System.out.println(Arrays.toString(weight));
 
 
 
